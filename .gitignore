@@ -122,5 +122,10 @@ all.config
 # Kdevelop4
 *.kdev4
 
+# kernel-other
+out
+phone_build.sh
+toolchain
+
 # fetched Android config fragments
 kernel/configs/android-*.cfg
